@@ -1,14 +1,19 @@
 # Introduction to Google AI Essentials
 
+# Google AI Essentials overview
 
+# AI and the future of work
 
+# Learn from AI success stories
+  + Jiva is working for promoting use AI in agriculture
 
+# Anoop: Become AI-empowered
 
-
-
-
-
-
-
-
-
+# Helpful resources and tips to get started
+  + Tips for success:
+    . Progress through the course content in the order that it's presented.
+    . Practice by applying what you’re learning to something you’re working on in your life.
+    . Work at your own pace, and set deadlines that fit your schedule.
+  > Gemini
+  > Gemini Notebook
+  > AI studio
