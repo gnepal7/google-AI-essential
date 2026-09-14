@@ -1,0 +1,39 @@
+# Explore how AI uses machine learning
+  > ML is subset of AI
+
+# Foundations of generative AI
+  - Generate new content sush as text and images
+  > Natural language:- The way people talk or write when communicating each other
+  => Provide input
+  => Data is processed
+  => Output in requested format: text, audio, video
+  + Benefits of generative AI 
+    . Boost your productivity
+    . Help you avoid mistakes
+    . Improve your decision-making process 
+  + Conversational AI tool
+    - A generative AI tool that processes text requests and generates text responses.
+
+# A guide to AI and ML
+  + Approaches to machine learning
+    1. Supervised learning, is used to train tools from a massive dataset that has been 
+      labeled by humans
+    2. Unsupervised learning, is not labeled by humans
+    3. Reinforcement learning, a process of trial-and-error that is guided by feedback
+  
+  + Rule-based AI: A different approach
+    - Hard-coded rules created by human developers. Eg: chatbots
+
+# Understand the capabilities and limitations of AI
+  + Capabilities of AI
+    . Generate content
+    . Analyze information quickly
+    . Answer questions
+    . Simplify day-to-day tasks
+  + Limitations of AI
+    . Can't learn independently
+    . Can reflect of amplify biases
+    . Can contain inaccuracies
+  + Hallucinations
+
+# Complete activities with Google AI Pro at no cost
