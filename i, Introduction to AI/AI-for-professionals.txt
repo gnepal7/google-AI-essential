@@ -1,0 +1,7 @@
+# Aleck: Make daily tasks easier with AI
+
+# Use AI as a collaborative tool
+  > People first strategy
+  + AI augmentation
+    - The process of using AI to improve a work product, whether by making
+      it easier to do or higher quality
