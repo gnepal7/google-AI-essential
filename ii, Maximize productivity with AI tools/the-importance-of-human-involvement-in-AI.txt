@@ -1,0 +1,20 @@
+# Leverage the human-in-the-loop approach to AI
+  + Human-in-the-loop approach
+    - A combination of machine and human intellivence to train, use, verify, and refine AI models.
+  + Responsible AI
+    - The principle of developing and using AI ethically, which the intent of benefiting
+      people and society while avoiding harm.
+  + Knowledge cutoff
+    - The conecpe ot that an AI model is trained at a specific point in time, so it doesn't 
+      have any knowledge of events or information after that date.
+  + Hallucinations
+    - AI outputs that are not true
+
+# Kathy: Explore how people improve AI models
+  => Code AI
+
+# Determine if generative AI is right for the task
+  + Assess whether to apply generative AI to a task
+    - Is the task generative?
+    - Can the task be iterated on to achieve the best outcome?
+    - Are there resources to provide adequate human oversight?

@@ -1,0 +1,31 @@
+# Transform your work with generative AI
+  + Prompt
+    - Text input that provide instructions to the AI model on how to generate output
+
+# Work with Gemini
+
+# Generative AI tools for workplace tasks
+  => Code-generative AI tools 
+    - Gemini Code Assist
+    - GitHub Copilot
+    - Jupyter AI
+    - Tabnine
+  => Image- and media-generative AI tools
+    - Gemini with Nano Banana
+    - Asset Studio
+    - Adobe Firefly
+    - Canve Magic Design
+    - DALL-E
+    - ElevenLabs
+    - Midjourney
+    - Runway
+  + Integrating AI tools into your workflow:
+    1. Native features
+    2. Browser extensions
+    3. Dedicated applications
+    4. Automated platforms
+  + A practical approach to getting started:
+    . Identify bottlenecks
+    . Start small
+    . Build a habit
+    . Evaluate and expand
