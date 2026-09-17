@@ -1,13 +1,14 @@
 # Use Gemini in Google Docs, Slides, Sheets, Meet, and Gmail
 
+# Use Gemini help analyze business performance
 
+# Use Gemini to take your meeting notes
 
-
-
-
-
-
-
-
-
-
+# Generate insights from multiple sources with Gemini Notebook
+  + An AI tool with source grounding
+    - It makes the tool more predictable
+    - Fact-checking is simple
+  + Explore NotebookLM with Shakespeare
+    - Sources 
+    - Chat
+    - Studio
