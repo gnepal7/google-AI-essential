@@ -1,15 +1,13 @@
 # Course 3 introduction: Discover the art of prompting
   + Prompt
   
+# Understand large language models
+  + Large Language Model (LLM)
+    - An Ai model that is trained on large amounts of text to identity patterns between
+      words, concepts, and phrases so that it can generate responses to prompts.
+  + Factors that can contribute to hallucinations
+    . Quality of an LLM's training data
+    . Phrasing of the prompt
+    . Method of LLM uses
 
-
-
-
-
-
-
-
-
-
-
-
+# Yufeng: Experiment with prompting

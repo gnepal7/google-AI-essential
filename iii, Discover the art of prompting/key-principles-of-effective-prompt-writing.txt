@@ -1,0 +1,54 @@
+# Write clear and specific prompts
+
+# Prompting best practices
+  + Simple framework:
+    . Task
+    . Context
+    . References
+    . Evaluate
+    . Iterate
+  => Specify the Task
+      - Persona : What expertise do you want the AI tool to draw from, and who is the audiende?
+      - Format : How do you want the output to be formatted? like : bullet list or paragraph, hashtag, list etc.
+  => Provide necessary context, might include:
+    - Reasons and objectives for performing the Task.
+    - Rules or guidelines that the output must follow.
+    - Relevant background information the tool should consider.
+  => Include references as examples, suggested:
+    . Briefly explain how the references relate to the task.
+    . Use 2-5 high-qualiti examples that closely align with your needs.
+    . Include your own work or open-source examples if relevant.
+  => Evaluate your output, focus on factors suah as:
+    - Accuracy
+    - Bias
+    - Relevancy
+    - Consistency
+  => Iterate for better results, the process typically goes like this:
+    - You provide an initial prompt.
+    - The AI tool responds with an output.
+    - You evaluate the effectiveness of the AI-generated responses.
+    - You refine your request based on what worked and what didn't.
+    - The process repeats until the AI tool produces the desired results.
+
+# Leverage an LLM's capabilities at work
+  + The capabilities of LLM
+    . Content creation
+    . Summarization
+    . Classification
+    . Extration (certain part from the data)
+    . Translation
+    . Editing
+    . Problem Solving    
+
+# Prompts for different purposes
+
+# Coach dialogue: Transform a prompt
+
+# Improve AI output through iteration
+  + Iterative processes:
+  + Critically evaluate LLM output
+    . Is the output accurate?
+    . Is the output unbiased?
+    . Does the output include sufficient information?
+    . Is the output relevant to my project or task?
+    . Is the output consistent if I use the same prompt multiple times?
