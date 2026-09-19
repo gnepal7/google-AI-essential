@@ -1,13 +1,38 @@
 # Discover few-shot prompting
+  - Examples are also important for LLM
+  => In prompt engineering, the word 'shot' is often used as a synonyms for the 
+    word 'example'
+  => 0 shot = no example
+  => 1 shot = 1 example
+  => Few-shot prompting = A technique that provides two or more examples in a prompt
+    - It may more useful for tasks
 
+# Techniques for mastering complex tasks with AI
+  + Chain-of-thought prompting
+    - technique that involves requesting an LLM to explain its reasoning process 
+      step-by-step, from input to final output
+    - This simply include key phrases in your prompt, like:
+      . 'Explain your reasoning'
+      . 'Go step by step'
+  + Prompt chaining
+    - It helps you tackle large projects by breaking them into a series of smaller, 
+      connected steps that are all in the same chat
+    - This includes 3 key steps:
+      . Task analysis
+      . Initial prompting
+      . Input/output flow
+  + Combining prompt chaining with chain-of-thought
+    - Combinations of both prompting techniques may provide qualitative and accurate solution.
+  + Limitations and best practices
+    - AI tools can struggle to remember context from earlier parts of the conversation as the 
+      prompt chain grows longer. This can lead to:
+      . Inconsistent responses
+      . Overlooking important details from earlier prompts
+      . Difficulty maintaining the overall objective of the task
+    => To overcome these challenges and ensure effective prompt chaining, consider the 
+      following strategies:
+      > Use checkpoints
+      > Work on sub-tasks
+      > Recap and redirect
 
-
-
-
-
-
-
-
-
-
-
+# Rachna: Improve prompts through exploration

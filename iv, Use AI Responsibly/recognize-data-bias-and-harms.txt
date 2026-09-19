@@ -1,0 +1,23 @@
+# Course 4 introduction: Use AI responsibly
+  + Responsible AI
+    - The principle of developing and using AI ethically, with the intent of benefiting people
+      and society while avoiding harm
+  + AI user
+    - Someone who laverages AI to complete a personal or professional task
+
+# Understand bias in AI
+  + Systemic bias
+    - A tendency upheld by institutions that favors or disadvantages
+  + Data bias
+    - A circumstance in which systemic errors or prejudices lead to unfair
+      or inaccurate information, resulting in biased outputs.
+  => AI models are value laden
+
+
+
+
+
+
+
+
+
