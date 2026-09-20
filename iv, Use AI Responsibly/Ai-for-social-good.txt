@@ -1,0 +1,41 @@
+# Security and privacy risks of AI
+    + Privacy 
+      - The right for a user to have control over how their personal information
+        and data are collected, sorted, and used.
+    + Security
+      - The act of safegaurding personal information and private data, and ensuring that the 
+        system is secure by preventing unauthorized access.
+    + Measures to protect privacy and security:
+      . Be aware of an AI tool's terms of use or service, privacy, and any associated risks
+      . Don't input personal or confidential information
+      . Stay up-to-date on the latest tools
+
+# Bias, drift, and knowledge cutoff
+  + Understanding data bias
+    - Here are a few ways you can mitigate bias when using AI tools:
+      . Be specific about the output you want from your prompt.
+      . Include important context about your intended audience and their needs.
+      . Provide fair and balanced references for the tool to follow.
+      . Use follow-up prompts to correct any output that seems biased or inaccurate.
+  + The constraint of knowledge cutoff
+    - Knowledge cutoff is the concept that an AI model is trained at a specific point in time
+  + Drift in an AI tool's output
+    - Drift is the gradual decline in an AI tool's accuracy and relevance as the real world changes.
+    - Two types of drifts are:
+      . factual drift: AI's becomes less accurate over time because of its knowledge cutoff
+      . Behavioral drift: Changes in an AI tool's behavior over the time.
+    => Ways for managing and mitigating both kinds of drift:
+      . Provide accurate and up-to-date context in your prompts
+      . Keep chats focused by starting a new conversation for each specific task
+      . Be explict
+
+# Shaun: Develop AI that works for everyone
+
+# Vint: Use AI for positive change
+
+# Checklist for using AI responsibly
+  + Principles of responsible AI use
+    1. Be clear and specific in your prompts
+    2. Protect sensitive information
+    3. Provide high-quality information
+    4. Always verify the output
