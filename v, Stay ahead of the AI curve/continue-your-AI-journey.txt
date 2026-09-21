@@ -1,0 +1,7 @@
+# Take inspiration from AI innovation
+  + Multimodal model
+    - An AI model that can accept and learn from multiple types of input, 
+      such as images, videos, or audio.
+    => Med-PaLM is multimodal model.
+  
+# Greg: Keep exploring with AI
